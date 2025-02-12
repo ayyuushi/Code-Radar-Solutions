@@ -4,6 +4,5 @@ int main(){
     scanf("%d", &a);
     scanf("%d", &b);
 
-    printf("%d \n", a<b);
-    return 0;
+    printf("%d \n", a>b);
 }
