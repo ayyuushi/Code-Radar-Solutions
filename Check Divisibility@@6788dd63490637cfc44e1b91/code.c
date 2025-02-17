@@ -9,4 +9,5 @@ int main(){
     else{
         printf("Not Divisble");
     }
+    return 0;
 }
