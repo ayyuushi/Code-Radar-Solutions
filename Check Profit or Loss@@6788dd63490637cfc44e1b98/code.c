@@ -6,10 +6,10 @@ int main(){
     if(s>c){
         printf("Profit");
     }
-    else if{
+    else if(c>s){
         printf("Loss");
     }
-    else if(c==s){
+    else(c==s){
         printf("No Profit No Loss");
     }
 }
