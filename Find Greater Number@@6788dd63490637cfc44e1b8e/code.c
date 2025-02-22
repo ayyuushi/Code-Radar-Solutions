@@ -4,9 +4,9 @@ int main(){
     scanf("%d %d",&a ,&b);
 
     if(a>b){
-        ptintf("%d",a)
+        ptintf("%d",a);
     }
     else{
-        printf("%d",b)
+        printf("%d",b);
     }
 }
