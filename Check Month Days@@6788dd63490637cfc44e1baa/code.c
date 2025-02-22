@@ -36,7 +36,7 @@ int main(){
     else if(a==11){
         printf("30");
     }
-    else if(a==12){
+    else{
         printf("31");
     }
 }
