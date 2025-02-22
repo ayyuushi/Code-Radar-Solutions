@@ -39,4 +39,5 @@ int main(){
     else{
         printf("31");
     }
+    return 0;
 }
