@@ -3,8 +3,7 @@
 int main() {
     int number;
 
-    // Take input from the user
-    printf("Enter a number: ");
+
     scanf("%d", &number);
 
     // Print the octal value
