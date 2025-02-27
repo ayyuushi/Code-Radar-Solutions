@@ -1,7 +1,17 @@
+#include <stdio.h>
 
-number = int(input("Enter a number: "))
+int main() {
+    int number;
 
+    // Take input from the user
+    printf("Enter a number: ");
+    scanf("%d", &number);
 
-print("Octal value:", oct(number))
+    // Print the octal value
+    printf("Octal value: %o\n", number);
 
-print("Hexadecimal value:", hex(number))
+    // Print the hexadecimal value
+    printf("Hexadecimal value: %x\n", number);
+
+    return 0;
+}
