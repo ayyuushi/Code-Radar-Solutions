@@ -9,6 +9,7 @@ int main(){
             char ch=(char)(64+b);
             printf("%c ",ch);
         }
+        b++;
         printf("\n");
     }
 }
