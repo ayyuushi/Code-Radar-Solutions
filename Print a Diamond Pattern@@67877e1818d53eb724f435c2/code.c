@@ -19,7 +19,7 @@ int main(){
         }
         else{
             nsp++;
-            nst+=2;
+            nst-=2;
         }
         printf("\n");
     }
